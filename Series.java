@@ -17,10 +17,10 @@ import java.util.*;
  */
 public class Series {
 	static int[] graph;//수의 배열
-	static int[] visited;//해당 수를 방문했는지 여부
+	static int[] visited;//방문한 숫자가 갖는 seq를 입력
 	static int MAX = 1000000; //가장 큰 자리수는 9999의 각 자리의 5승의 합 : 295245
 	static int P;
-	static int ans;//방문한 숫자가 갖는 seq를 입력
+	static int ans;//반복이 시작되는 seq
 
 	
 	public static void main(String[] args) throws Exception{
