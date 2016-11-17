@@ -103,6 +103,8 @@ public class DSLR {
 			}
 			System.out.println(sb);
 		}
+		
+		sc.close();
 	}
 
 }
