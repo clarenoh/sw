@@ -63,6 +63,7 @@ public class HideAndFind {
 		}
 		
 		System.out.println(distance[K]);
+		sc.close();
 	}
 
 }
