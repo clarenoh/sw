@@ -16,6 +16,7 @@ import java.util.*;
 /*** 설명
  * 가장 빠른 시간--- BFS(Queue) 탐색
  * 한 vertex에서 다른 vertex로 가는 최소경로를 구할 수 있음
+ * 한 번 방문한 곳은 다시 방문하지 않는 것이 좋기 때문에, 따로 배열에 체크하면서 방문
  **/
 
 public class HideAndFind {
