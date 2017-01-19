@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//http://koitp.org/problem/FARTHEST_CITY/read/
+
 /**
  * 가장 먼 두 도시
  * N 개의 도시, 임의의 두 도시 사이에는 항상 도로가 있다. 도로는 1번부터 N번까지 넘버링
